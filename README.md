@@ -12,3 +12,7 @@ To install this site, I followed these steps:
 - Followed the instructions on this page: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
     - In particular: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
     - I chose to put all files in the root folder / and the main branch for simplicity
+- Made edits to '_config.yml'
+- Made edits to about.markdown
+    - I noticed that changes appeared immediately when viewing the page locally (by running ```bundle exec jekyll serve''' on the terminal. When pushing onto GitHub, it took about a minute for the change to be reflected on remote.
+- … 
